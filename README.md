@@ -5,7 +5,7 @@
 </p>
  
 <p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY2VqY3B4M2R5eGJ6dHZ5b2VlZzV4eG5tY3R2dGJmYzB1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY2VqY3B4M2R5eGJ6dHZ5b2VlZzV4eG5tY3R2dGJmYzB1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding-gif"> 
 </p>
 
 ### **Who Am I?**  
