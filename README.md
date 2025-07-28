@@ -92,10 +92,10 @@ Building scalable solutions with **MERN stack** while exploring **Deep Learning*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhashish9963&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180">
 </p>
 
-## 🧠 LeetCode Stats
+<h1 align="left">🧠 LeetCode Stats</h1>
 <p align="center">
-  <a href="https://leetcode.com/AshishSingh5042" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/AshishSingh5042?theme=dark&ext=activity" height="400">
+  <a href="https://leetcode.com/ashishsingh07">
+    <img src="https://leetcard.jacoblin.cool/ashishsingh5042?theme=dark" alt="Ashish's LeetCode Stats">
   </a>
 </p>
 
